@@ -1,4 +1,4 @@
 import mymodule
 
 mymodule.sayhi()
-print("Version", mymodule._version_)
+print("Version", mymodule.__version__)
